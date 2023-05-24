@@ -47,8 +47,8 @@ Plot the graph with transformed inputs using RBF
 Test for the XOR patterns.
 
 ## PROGRAM:
-### Developed By: Aadheeshwar.A
-### Reg.No: 212221230001
+### Developed By: DHANUSH S
+### Reg.No: 212221230020
 ```py
 import numpy as np
 import matplotlib.pyplot as plt
@@ -113,7 +113,7 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 ```
 
 ## OUTPUT :
-![ss1](img1.png)
+![output](sd.png)
 
 ## RESULT:
 Thus XOR is successfully implemeted using RBF.
